@@ -76,18 +76,13 @@ This project focuses on cleaning, exploring, and analyzing US household income d
 
 ---
 
-## 💡 Future Improvements
-
-- Integrate additional datasets for demographic context.
-- Implement visualizations using Python or Tableau.
-- Expand analysis to explore time-based trends in household income.
-
----
-
 ## 📬 Contact
 
 For questions or suggestions, feel free to reach out!
+
 Linkedin: https://www.LinkedIn.com/in/matan-nafshi
+
 Email: matannaf@gmail.com
+
 Phone: +972 528777096
 ---
